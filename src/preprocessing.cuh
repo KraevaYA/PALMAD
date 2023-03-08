@@ -1,3 +1,10 @@
+/*+++++++++++++++++++++++++++++++++
+Project: PALMAD (Parallel Arbitrary Length MERLIN-based Anomaly Discovery)
+Source file: preprocessing.cuh
+Purpose: Parallel preprocessing of the input data in CUDA
+Author(s): Yana Kraeva (kraevaya@susu.ru)
++++++++++++++++++++++++++++++++++*/
+
 #pragma once
 
 #include <cublas_v2.h>
