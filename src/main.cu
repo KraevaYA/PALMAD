@@ -1,3 +1,10 @@
+/*+++++++++++++++++++++++++++++++++
+Project: PALMAD (Parallel Arbitrary Length MERLIN-based Anomaly Discovery)
+Source file: main.cu
+Purpose: Parallel implementation of the PALMAD algorithm in CUDA
+Author(s): Yana Kraeva (kraevaya@susu.ru)
++++++++++++++++++++++++++++++++++*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
