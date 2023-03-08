@@ -1,3 +1,10 @@
+/*+++++++++++++++++++++++++++++++++
+Project: PALMAD (Parallel Arbitrary Length MERLIN-based Anomaly Discovery)
+Source file: DRAG_kernels.cuh
+Purpose: Parallel implementation of the DRAG algorithm in CUDA
+Author(s): Yana Kraeva (kraevaya@susu.ru)
++++++++++++++++++++++++++++++++++*/
+
 #pragma once
 
 #include <math.h>
