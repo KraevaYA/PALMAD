@@ -17,3 +17,5 @@ PALMAD is based on the MERLIN serial algorithm by Nakamura et al. [https://doi.o
  url       = {https://doi.org/10.3390/math11143193}
 }
 ```
+# Acknowledgement
+This work was financially supported by the Russian Science Foundation (grant no. 23-21-00465).
